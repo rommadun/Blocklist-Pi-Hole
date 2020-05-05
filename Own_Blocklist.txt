@@ -1,3 +1,7 @@
 api.amplitude.com
 marketingplatform.google.com
 doublecklick.net
+https://marketingplatform.google.com/about/enterprise/
+http://marketingplatform.google.com/about/enterprise/
+https://doublecklick.net
+http://doublecklick.net
